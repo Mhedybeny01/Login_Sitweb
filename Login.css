@@ -1,0 +1,112 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.login{
+    position: absolute;
+    top: 120px;
+    left: 450px;
+    background-color: transparent;
+    height: 400px;
+    width: 400px;
+    border:0;
+    backdrop-filter: blur(9px);
+    border-radius: 5%;
+    box-shadow: 0px 0px 0px rgb(0, 110, 255);
+}
+img{
+    height: 645px;
+    width: 100%;
+}
+.user{
+    position: absolute;
+    top: 130px;
+    left:80px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.user:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+.pass{
+    position: absolute;
+    top: 200px;
+    left:80px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.pass:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+button{
+    position: absolute;
+    top: 250px;
+    left:80px;
+    width: 240px;
+    height: 30px;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border: 0px;
+}
+button:hover{
+    background-color:  rgb(1, 84, 192);
+    transition: 0.3s;
+}
+.t1{
+    position: absolute;
+    top: 110px;
+    left: 80px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t2{
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    position: absolute;
+    top: 35px;
+    left: 155px;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ForgetPassword{
+position: absolute;
+top:300px ;
+left: 80px;
+text-decoration-line: none;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+}
+.ForgetPassword:hover{
+    color:  rgb(1, 84, 192);
+    transition: 0.3s;
+}
+.sing{
+    position: absolute;
+    top:300px ;
+    left: 280px;
+    text-decoration-line: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.sing:hover{
+    color:  rgb(1, 84, 192);
+    transition: 0.3s;
+}

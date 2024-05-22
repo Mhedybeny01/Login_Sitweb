@@ -1,0 +1,217 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.singin{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    background-color: transparent;
+    height: 500px;
+    width: 600px;
+    border:0;
+    backdrop-filter: blur(9px);
+    border-radius: 5%;
+    
+}
+.img2{
+    height: 645px;
+    width: 100%;
+}
+.name{
+    position: absolute;
+    top: 130px;
+    left:40px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.name:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+.lastname{
+    position: absolute;
+    top: 130px;
+    left:310px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.lastname:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+.open2{
+    position: absolute;
+    top: 350px;
+    left:40px;
+    width: 510px;
+    height: 35px;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border: 0px;
+}
+.open2:hover{
+    background-color:  rgb(1, 84, 192);
+    transition: 0.3s;
+}
+.t1{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t2{
+    position: absolute;
+    top: 110px;
+    left: 310px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    position: absolute;
+    top: 35px;
+    left: 240px;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.google{
+    color: aliceblue;
+    text-decoration-line: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 20px;
+    top: -6px;
+}
+i{
+    position: absolute;
+    top: 410px;
+    left: 35px;
+    font-size: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(1, 84, 192); ;
+    height: 30px;
+    width: 200px;
+    padding: 7px;
+    margin: 7px;
+    border-radius: 5px;
+    color:white;
+}
+i:hover{
+   background-color:  rgb(1, 84, 192);
+    transition: 0.3s;
+}
+.sing{
+    position: absolute;
+    top:-5px ;
+    left: 55px;
+    color: aliceblue;
+    text-decoration-line: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+
+    
+
+}
+b{
+    position: absolute;
+    top: 410px;
+    left: 328px;
+    font-size: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(1, 84, 192); ;
+    height: 30px;
+    width: 200px;
+    padding: 7px;
+    margin: 7px;
+    border-radius: 5px;
+    color:white;
+}
+
+b:hover{
+    color:  white;
+    transition: 0.3s;
+    background-color: rgb(1, 84, 192); 
+}
+
+.temail{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.email{
+    position: absolute;
+    top: 200px;
+    left:40px;
+    width: 510px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.email:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+
+
+.tphone{
+    position: absolute;
+    top: 250px;
+    left: 40px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phone{
+    position: absolute;
+    top: 270px;
+    left:40px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.phone:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+
+.tadresse{
+    position: absolute;
+    top: 250px;
+    left: 310px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.adresse{
+    position: absolute;
+    top: 270px;
+    left:310px;
+    width: 240px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+.adresse:hover{
+    border: 1px solid rgb(0, 110, 255);
+    transition: 0.3s;
+}
+
